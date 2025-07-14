@@ -10,4 +10,5 @@ A deep learning project that classifies animal species from images using a Convo
 *model/classify.py
 ->is the model which has been trained on roughly 400 images of 15 different animal class combined
 
-->You can gather custom dataset according to the class labels and also train this model accordingly on more animal names 
+->You can gather custom dataset according to the class labels and also train this model accordingly on more animal names, you just need to change the path of the directory/folder where you have stored the images, you can also fine tune this model to enhace the performance
+
